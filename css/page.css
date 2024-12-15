@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+
+    background-color: #07e5f9;
+    text-align: center;
+}
+
+.view_main {
+    margin-top: 50px;
+    width: 100%;
+
+    background-color: #adc0ff;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 40px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.view_main img {
+    width: 800px;
+    height: 500px;
+
+    margin: 0 17%;
+}
+
+
+.view_main h2 {
+
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 30px;
+    text-align: center;
+}
+
+.view_main p {
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 24px;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
